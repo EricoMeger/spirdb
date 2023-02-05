@@ -1,5 +1,6 @@
 #!/bin/bash
 
+sudo apt install gcc
 sudo apt install codeblocks
 sudo apt install unzip
 
