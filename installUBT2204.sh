@@ -5,7 +5,8 @@
 # ./install.sh
 ##########################
 
-#Esse arquivo é o install.sh feito originalmente pelos autores da Biblaureano, onde eu modifiquei o diretório de alguns arquivos para que o script pudesse funcionar na versão 22.04 do Ubuntu. Todos os créditos à seus autores.
+#Esse arquivo é o install.sh feito originalmente pelos autores da Biblaureano, onde eu modifiquei o diretório de alguns arquivos para que 
+#o script pudesse funcionar na versão 22.04 do Ubuntu. Todos os créditos à seus autores.
 
 echo "Removendo arquivos antigos"
 rm ./obj/Debug/*
