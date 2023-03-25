@@ -10,7 +10,7 @@ wget -O biblaureano_3.9.zip 'https://downloads.sourceforge.net/project/biblaurea
 echo "criando pasta para a biblioteca"
 mkdir ~/Documents/biblaureano
 mv biblaureano_3.9.zip ~/Documents/biblaureano
-cp i~nstallUBT2204.sh ~/Documents/biblaureano
+cp installUBT2204.sh ~/Documents/biblaureano
 cd ~/Documents/biblaureano
 
 unzip biblaureano_3.9.zip
